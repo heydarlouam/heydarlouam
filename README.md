@@ -36,10 +36,11 @@
 
 ## 📞 Connect With Me
 
-- 📧 **Email:** milad.heydarlouam@gmail.com
-- 💼 **LinkedIn:** [Milad Heydarlouam](https://linkedin.com/in/milad-heydarlouam)
-- 🌐 **Website:** [https://heydarlouam.ir](https://heydarlouam.ir)
-- 🐦 **Twitter:** [@bep_ten](https://twitter.com/bep_ten)
+- 📧 **Email:** [phone.sync.heydarloo@gmail.com](mailto:phone.sync.heydarloo@gmail.com)
+- 💼 **LinkedIn:** [Milad Heydarlouam](https://www.linkedin.com/in/milad-heydarlouam-51b03a206/)
+- 🌐 **Project:** [heydarlouam.github.io/mita/](https://heydarlouam.github.io/mita/)
+- 🐦 **Twitter/X:** [@bop_hm](https://x.com/bop_hm)
+- 💻 **GitHub:** [heydarlouam](https://github.com/heydarlouam)
 
 ⭐ **Star my repositories if you find them useful!**
 
