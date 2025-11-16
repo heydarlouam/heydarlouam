@@ -11,12 +11,15 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydarlouam&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heydarlouam&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heydarlouam&theme=radical&hide_border=true)
----
+
+</div>
 
 ## 📞 Connect With Me
 
