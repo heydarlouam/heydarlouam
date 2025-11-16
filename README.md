@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🚀 Milad Heydarlouam (میلاد حیدرلوام)
 
-<!--
-**heydarlouam/heydarlouam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Mobile Applications Developer
 
-Here are some ideas to get you started:
+📱 **Mobile Development:** Flutter • Android • Dart • Java  
+⚡ **Backend Development:** Go • Node.js • Express.js • REST APIs  
+🗄️ **Database:** MySQL • MongoDB  
+🛠️ **Tools & Technologies:** JavaScript • Git • Docker • Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Featured Projects
+
+### 📱 [Project 1 - Mobile App]()
+- **تکنولوژی:** Flutter, Dart, REST API
+- **ویژگی‌ها:** [ویژگی‌های اصلی]
+
+### 🔙 [Project 2 - Backend API]()  
+- **تکنولوژی:** Go, Node.js, MySQL
+- **ویژگی‌ها:** [ویژگی‌های اصلی]
+
+### 🌐 [Project 3 - Full Stack App]()
+- **تکنولوژی:** Flutter, Express.js, MongoDB
+- **ویژگی‌ها:** [ویژگی‌های اصلی]
+
+---
+
+## 📊 GitHub Stats
+
+![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydarlouam&show_icons=true&theme=radical)
+
+---
+
+## 📞 Connect With Me
+
+- 📧 **Email:** [your-email@example.com]()
+- 💼 **LinkedIn:** [Your LinkedIn Profile]()
+- 🌐 **Website:** [Your Website]()
+
+⭐ **Star my repositories if you find them useful!**
