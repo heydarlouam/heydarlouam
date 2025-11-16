@@ -9,22 +9,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 📱 [Flutter E-Commerce App]()
-- **تکنولوژی:** Flutter, Dart, REST API, State Management
-- **ویژگی‌ها:** UI/UX پیشرفته، مدیریت حالت، اتصال به API
-
-### 🔙 [Go RESTful API]()  
-- **تکنولوژی:** Go, MySQL, JWT Authentication
-- **ویژگی‌ها:** سرویس‌های scalable، احراز هویت امن
-
-### 🌐 [Node.js Microservices]()
-- **تکنولوژی:** Node.js, Express.js, MongoDB, Docker
-- **ویژگی‌ها:** معماری میکروسرویس، containerization
-
----
-
 ## 📊 GitHub Stats
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydarlouam&show_icons=true&theme=radical&hide_border=true)
