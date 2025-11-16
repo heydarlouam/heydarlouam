@@ -11,17 +11,17 @@
 
 ## 🎯 Featured Projects
 
-### 📱 [Project 1 - Mobile App]()
-- **تکنولوژی:** Flutter, Dart, REST API
-- **ویژگی‌ها:** [ویژگی‌های اصلی]
+### 📱 [Flutter E-Commerce App]()
+- **تکنولوژی:** Flutter, Dart, REST API, State Management
+- **ویژگی‌ها:** UI/UX پیشرفته، مدیریت حالت، اتصال به API
 
-### 🔙 [Project 2 - Backend API]()  
-- **تکنولوژی:** Go, Node.js, MySQL
-- **ویژگی‌ها:** [ویژگی‌های اصلی]
+### 🔙 [Go RESTful API]()  
+- **تکنولوژی:** Go, MySQL, JWT Authentication
+- **ویژگی‌ها:** سرویس‌های scalable، احراز هویت امن
 
-### 🌐 [Project 3 - Full Stack App]()
-- **تکنولوژی:** Flutter, Express.js, MongoDB
-- **ویژگی‌ها:** [ویژگی‌های اصلی]
+### 🌐 [Node.js Microservices]()
+- **تکنولوژی:** Node.js, Express.js, MongoDB, Docker
+- **ویژگی‌ها:** معماری میکروسرویس، containerization
 
 ---
 
@@ -29,12 +29,25 @@
 
 ![Milad's GitHub stats](https://github-readme-stats.vercel.app/api?username=heydarlouam&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heydarlouam&layout=compact&theme=radical)
+
 ---
 
 ## 📞 Connect With Me
 
-- 📧 **Email:** [your-email@example.com]()
-- 💼 **LinkedIn:** [Your LinkedIn Profile]()
-- 🌐 **Website:** [Your Website]()
+- 📧 **Email:** milad.heydarlouam@gmail.com
+- 💼 **LinkedIn:** [Milad Heydarlouam](https://linkedin.com/in/milad-heydarlouam)
+- 🌐 **Website:** [https://heydarlouam.ir](https://heydarlouam.ir)
+- 🐦 **Twitter:** [@bep_ten](https://twitter.com/bep_ten)
 
 ⭐ **Star my repositories if you find them useful!**
+
+---
+
+## 💻 Technical Skills
+
+**Mobile:** `Flutter` `Dart` `Android` `Java` `Kotlin`  
+**Backend:** `Go` `Node.js` `Express.js` `REST API` `GraphQL`  
+**Database:** `MySQL` `MongoDB` `SQLite` `PostgreSQL`  
+**Frontend:** `JavaScript` `HTML` `CSS` `React`  
+**Tools:** `Git` `Docker` `Postman` `VS Code` `Android Studio`
